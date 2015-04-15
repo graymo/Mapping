@@ -14,4 +14,4 @@ If you wish to read up some of the resources in advance, we will be working with
 * [Leaflet](http://leafletjs.com) for javascript map building
 * [Jekyll](http://jekyllrb.com/) for webpage construction
 
-####[Next](../master/datasheets)
+####[Next](../master/datasheets.md)
